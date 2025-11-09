@@ -1,0 +1,266 @@
+[
+    {
+        "id": 9223372016900012342,
+        "category": {
+            "id": -12451059,
+            "name": "pariatur"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "proident reprehenderit",
+            "aliqua nisi"
+        ],
+        "tags": [
+            {
+                "id": -51074348,
+                "name": "nisi nulla"
+            },
+            {
+                "id": 85662688,
+                "name": "deserunt incididunt laboris"
+            }
+        ],
+        "status": "sold"
+    },
+    {
+        "id": 999,
+        "name": "bobby",
+        "photoUrls": [
+            
+        ],
+        "tags": [
+            
+        ],
+        "status": "sold"
+    },
+    {
+        "id": 9223372036854737974,
+        "category": {
+            "id": -51164712,
+            "name": "sint in d"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "in qui",
+            "dolore nisi ad enim ut"
+        ],
+        "tags": [
+            {
+                "id": -3610563,
+                "name": "anim occaecat sed irure"
+            },
+            {
+                "id": 80014622,
+                "name": "ut enim aute officia"
+            }
+        ],
+        "status": "sold"
+    },
+    {
+        "id": 6093434813465513172,
+        "name": "bobby",
+        "photoUrls": [
+            
+        ],
+        "tags": [
+            
+        ],
+        "status": "sold"
+    },
+    {
+        "id": 6,
+        "category": {
+            "id": 9770,
+            "name": "string"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string",
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 7376,
+                "name": "string"
+            },
+            {
+                "id": 760,
+                "name": "string"
+            }
+        ],
+        "status": "sold"
+    },
+    {
+        "id": 2519901487610245185,
+        "name": "bobby",
+        "photoUrls": [
+            
+        ],
+        "tags": [
+            
+        ],
+        "status": "sold"
+    },
+    {
+        "id": 2765878854452332430,
+        "name": "bobby",
+        "photoUrls": [
+            
+        ],
+        "tags": [
+            
+        ],
+        "status": "sold"
+    },
+    {
+        "id": 13,
+        "category": {
+            "id": 0,
+            "name": "cats"
+        },
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "sold"
+    },
+    {
+        "id": 9223372036854738165,
+        "category": {
+            "id": 2299282,
+            "name": "officia d"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "veniam ad",
+            "consectetur laboris anim"
+        ],
+        "tags": [
+            {
+                "id": 6282852,
+                "name": "aliqua deserunt irure do Excepteur"
+            },
+            {
+                "id": -79344316,
+                "name": "dolor veniam non Ut"
+            }
+        ],
+        "status": "sold"
+    },
+    {
+        "id": 9439,
+        "category": {
+            "id": 9802,
+            "name": "string"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string",
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 5993,
+                "name": "string"
+            },
+            {
+                "id": 4816,
+                "name": "string"
+            }
+        ],
+        "status": "sold"
+    },
+    {
+        "id": 5401614564531811290,
+        "name": "Billy",
+        "photoUrls": [
+            
+        ],
+        "tags": [
+            
+        ],
+        "status": "sold"
+    },
+    {
+        "id": 1001,
+        "category": {
+            "id": 2,
+            "name": "Cats"
+        },
+        "name": "Charlie",
+        "photoUrls": [
+            "new_url"
+        ],
+        "tags": [
+            {
+                "id": 2,
+                "name": "playful"
+            }
+        ],
+        "status": "sold"
+    },
+    {
+        "id": 8190,
+        "category": {
+            "id": 426,
+            "name": "string"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string",
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 2712,
+                "name": "string"
+            },
+            {
+                "id": 7896,
+                "name": "string"
+            }
+        ],
+        "status": "sold"
+    },
+    {
+        "id": 9223372036854738541,
+        "category": {
+            "id": 1,
+            "name": "doggie"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            null
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "doggie"
+            }
+        ],
+        "status": "sold"
+    },
+    {
+        "id": 9223372036854738542,
+        "category": {
+            "id": 1,
+            "name": "doggie"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            null
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "doggie"
+            }
+        ],
+        "status": "sold"
+    }
+]

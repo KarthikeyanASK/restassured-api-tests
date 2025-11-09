@@ -1,0 +1,20 @@
+[
+  {
+    "id": 101,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Perro",
+    "photoUrls": [
+      "http://example.com/perro.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "trained"
+      }
+    ],
+    "status": "sold"
+  }
+]

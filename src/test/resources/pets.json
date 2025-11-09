@@ -1,0 +1,66 @@
+
+[
+  {},
+  {
+    "id": 101,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "dogge",
+    "photoUrls": [
+      "http://example.com/dogge.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 102,
+    "category": null,
+    "name": "Whiskers",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 103,
+    "category": {
+      "id": 1,
+      "name": "dog"
+    },
+    "name": "Walter",
+    "photoUrls": [
+      "url1"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 104,
+    "category": {
+      "id": 2,
+      "name": "fish"
+    },
+    "name": "Goldie",
+    "photoUrls": [
+      "url2"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "friendly"
+      }
+    ],
+    "status": "sold"
+  }
+]

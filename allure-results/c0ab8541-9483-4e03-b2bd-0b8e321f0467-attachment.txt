@@ -1,0 +1,18 @@
+{
+    "id": 104,
+    "category": {
+        "id": 2,
+        "name": "cat"
+    },
+    "name": "Mr Kat",
+    "photoUrls": [
+        "url2"
+    ],
+    "tags": [
+        {
+            "id": 2,
+            "name": "cute"
+        }
+    ],
+    "status": "sold"
+}
