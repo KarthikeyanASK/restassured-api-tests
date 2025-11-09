@@ -1,0 +1,19 @@
+# Maven target directory
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+#results
+allure-results/
+test-output/
+.metadata/
