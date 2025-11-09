@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="api.tests.AddPetServiceTest"/>
+      <class name="api.tests.RetrievePetDataByIdServiceTest"/>
+      <class name="api.tests.RetrievePetDataByStatusServiceTest"/>
+      <class name="api.tests.UpdateExistingPetServiceTest"/>
+      <class name="api.tests.DeletePetServiceTest"/>
+      <class name="api.tests.PetLifecycleTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

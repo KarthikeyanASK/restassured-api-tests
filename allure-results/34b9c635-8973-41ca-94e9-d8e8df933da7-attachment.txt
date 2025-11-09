@@ -1,0 +1,19 @@
+{
+    "id": 104,
+    "category": {
+        "id": 3,
+        "name": "fish"
+    },
+    "name": "Goldie",
+    "photoUrls": [
+        "http://example.com/goldie1.jpg",
+        "http://example.com/goldie2.jpg"
+    ],
+    "tags": [
+        {
+            "id": 2,
+            "name": "friendly"
+        }
+    ],
+    "status": "sold"
+}
